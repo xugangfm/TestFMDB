@@ -1,0 +1,890 @@
+TTestFMDB
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch TestFMDB/TestFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB normal i386
+cCopyStringsFile /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/en.lproj/InfoPlist.strings TestFMDB/en.lproj/InfoPlist.strings
+cCompileXIB /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.xib
+cCompileAssetCatalog /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app /Users/xugang/workspace_Test/TestFMDB/TestFMDB/Images.xcassets
+cProcessInfoPlistFile /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/Info.plist /Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Info.plist
+cGenerateDSYMFile /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app.dSYM /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB
+cTouch /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000533B9FAC000000000058E0E0
+t1396416428
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000533B9FAC00000000005B82F0
+t1396416428
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9FAC0000000000446820
+t1396416428
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000533B9FAD00000000003599D0
+t1396416429
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000533B9FAD00000000002FC3B0
+t1396416429
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000533B9FAD000000000004B000
+t1396416429
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9FAE000000000088D8C0
+t1396416430
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000533B9FB10000000000037680
+t1396416433
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000533B9FB2000000000048F720
+t1396416434
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000533B9FB2000000000013FD70
+t1396416434
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533B9FB50000000001F1DE10
+t1396416437
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000533B9FCB00000000002BC360
+t1396416459
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000533B9FD90000000000002338
+t1396416473
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000533B9FDA000000000008D370
+t1396416474
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000533B9FDA0000000000392E20
+t1396416474
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib
+c00000000533B9FDA00000000001D35B0
+t1396416474
+s1914288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000537B01BC00000000000141F0
+t1400570300
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000533B9FDA0000000000014A80
+t1396416474
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000533B9FDA0000000000033BA0
+t1396416474
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000533B9FDA000000000001CFB0
+t1396416474
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000533B9FDA000000000001B2B0
+t1396416474
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000533B9FDA00000000000C9570
+t1396416474
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000533B9FDA0000000000063280
+t1396416474
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000533B9FDA0000000000008880
+t1396416474
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000533B9FDA0000000000015080
+t1396416474
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000533B9FDA00000000000230F0
+t1396416474
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000533B9FDA000000000000E380
+t1396416474
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000533B9FDA0000000000089380
+t1396416474
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000533B9FDA0000000000017320
+t1396416474
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000533B9FDA0000000000039CD0
+t1396416474
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000533B9FDA000000000000B0B0
+t1396416474
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000533B9FDA0000000000167E80
+t1396416474
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000533B9FDA00000000000106A0
+t1396416474
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000533B9FDA000000000001CE40
+t1396416474
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000533B9FDA00000000000740C0
+t1396416474
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000533B9FDA000000000006CA60
+t1396416474
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000533B9FDA000000000001BAD0
+t1396416474
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000533B9FDA0000000000084A20
+t1396416474
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000533B9F79000000000000514C
+t1396416377
+s20812
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.h
+c0000000053E7123A000000000000010F
+t1407652410
+s271
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m
+c0000000053E713380000000000000906
+t1407652664
+s2310
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/Images.xcassets
+c0000000053E7123A0000000000000088
+t1407652410
+s136
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Info.plist
+c0000000053E7123A000000000000048F
+t1407652410
+s1167
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Prefix.pch
+c0000000053E7123A0000000000000158
+t1407652410
+s344
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.h
+c0000000053E7128E00000000000000D1
+t1407652494
+s209
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m
+c0000000053E736D40000000000000C41
+t1407661780
+s3137
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.xib
+c0000000053E7133B0000000000000549
+t1407652667
+s1353
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/en.lproj/InfoPlist.strings
+c0000000053E7123A000000000000002D
+t1407652410
+s45
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDB.h
+c0000000053E70E650000000000000086
+t1407651429
+s134
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.h
+c0000000053E70E65000000000000A254
+t1407651429
+s41556
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m
+c0000000053E70E65000000000000A416
+t1407651429
+s42006
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.h
+c0000000053E70E650000000000001A5C
+t1407651429
+s6748
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m
+c0000000053E70E6500000000000019D1
+t1407651429
+s6609
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.h
+c0000000053E70E6500000000000013E4
+t1407651429
+s5092
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m
+c0000000053E70E650000000000001B9C
+t1407651429
+s7068
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.h
+c0000000053E70E650000000000001658
+t1407651429
+s5720
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m
+c0000000053E70E65000000000000187C
+t1407651429
+s6268
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.h
+c0000000053E70E650000000000002E38
+t1407651429
+s11832
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m
+c0000000053E70E650000000000002C93
+t1407651429
+s11411
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m
+c0000000053E787EB0000000000000380
+t1407682539
+s896
+
+N/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app
+t1407682544
+s306
+
+N/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app.dSYM
+t1407682235
+s102
+
+N/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/Info.plist
+t1407652722
+s980
+
+N/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/PkgInfo
+t1407652722
+s8
+
+N/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB
+t1407682544
+s162948
+
+N/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/ViewController.nib
+t1407652721
+s867
+
+N/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/en.lproj/InfoPlist.strings
+t1407652720
+s42
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o
+t1407652669
+s64512
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o
+t1407652669
+s123892
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o
+t1407652669
+s25396
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o
+t1407652669
+s43996
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o
+t1407652669
+s36460
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o
+t1407652669
+s49324
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/TestFMDB.LinkFileList
+c0000000053E7133B000000000000041A
+t1407652667
+s1050
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o
+t1407682185
+s48508
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o
+t1407682543
+s3536
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/assetcatalog_dependencies.txt
+t1407652722
+s343
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/assetcatalog_generated_info.plist
+t1407652722
+s525
+
+N/usr/lib/libSystem.B.dylib
+c00000000537B01A6000000000000E6D0
+t1400570278
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000537B01BC0000000000012A00
+t1400570300
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c00000000537B0193000000000002E320
+t1400570259
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000537B01A60000000000021860
+t1400570278
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c00000000537B01BB000000000001B620
+t1400570299
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c00000000537B01BB00000000000BD920
+t1400570299
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c00000000537B01BC00000000000141F0
+t1400570300
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c00000000537B01BC000000000000A120
+t1400570300
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000537B01BC000000000001D550
+t1400570300
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000537B01BB0000000000014EE0
+t1400570299
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000537B01BE0000000000010380
+t1400570302
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c00000000537B01BE000000000000C4C0
+t1400570302
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c00000000537B01BC00000000000357A0
+t1400570300
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c00000000537B01BC000000000000C070
+t1400570300
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000537B01A60000000000168C00
+t1400570278
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000537B01BB0000000000010630
+t1400570299
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000537B01BD000000000001DF10
+t1400570301
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000537B01A60000000000075B00
+t1400570278
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000537B01A6000000000007CC70
+t1400570278
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c00000000537B01A600000000000766C0
+t1400570278
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000537B01BC0000000000044DC0
+t1400570300
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000537B01A60000000000021FA0
+t1400570278
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000537B01BC000000000002D900
+t1400570300
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c00000000537B01BD000000000001E570
+t1400570301
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000537B01B0000000000000CC70
+t1400570288
+s52336
+
+N/usr/lib/system/libunc.dylib
+c00000000537B01B4000000000000C3F0
+t1400570292
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c00000000537B01BD00000000000199F0
+t1400570301
+s104944
+
+N/var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch
+t1407652668
+s121744
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb6da936ebf97b941^7c9ca56ebf97b941^---0#1#1#--18"Check dependencies36"3BC4A145-1252-40D3-9A5D-C58D242D6E98-
+
+CCompileAssetCatalog /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app /Users/xugang/workspace_Test/TestFMDB/TestFMDB/Images.xcassets
+s429345520.697439
+e429345522.256667
+r1
+xCompileAssetCatalog
+x/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/Images.xcassets
+o2014-08-10 14:38:41.785 IBCocoaTouchImageCatalogTool[1235:303] CFPreferences: user home directory at file:///Users/xugang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/LaunchImage-700-568h@2x.png
+o/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/Assets.car
+o/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"CompileAssetCatalog build/Debug-iphonesimulator/TestFMDB.app TestFMDB/Images.xcassets85"CompileAssetCatalog build/Debug-iphonesimulator/TestFMDB.app TestFMDB/Images.xcassets7fa2b2f04a97b941^3db641f24a97b941^-595"2014-08-10 14:38:41.785 IBCocoaTouchImageCatalogTool[1235:303] CFPreferences: user home directory at file:///Users/xugang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/LaunchImage-700-568h@2x.png/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/Assets.car/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@70"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/Images.xcassets/0000000000000000^1095"CompileAssetCatalog build/Debug-iphonesimulator/TestFMDB.app TestFMDB/Images.xcassets    cd /Users/xugang/workspace_Test/TestFMDB    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app /Users/xugang/workspace_Test/TestFMDB/TestFMDB/Images.xcassets36"3862696D-7CA0-4AAF-BBA1-4245ADDCA1C5-
+b51461929-0BA1-43B5-B517-A60FDCBDCFA9
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345468.649889
+e429345469.086629
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m191"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o TestFMDB/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5182a6bc4a97b941^89ea15bd4a97b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m0000000000000000^3549"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o TestFMDB/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o36"DAAB56E4-A9B4-4EF1-BA14-CCF9DFB798CF-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345468.649302
+e429345469.171603
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m194"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o TestFMDB/fmdb/FMDatabase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler486da6bc4a97b941^87e12bbd4a97b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m0000000000000000^3553"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o TestFMDB/fmdb/FMDatabase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o36"C7293347-DA26-4BDC-9585-63EF3EF37A5A-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345469.086933
+e429345469.188866
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m212"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o TestFMDB/fmdb/FMDatabaseAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfd6616bd4a97b941^fb5930bd4a97b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m0000000000000000^3607"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o TestFMDB/fmdb/FMDatabaseAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o36"5A99FDBE-FCBE-481E-A8EF-482A175033A4-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345469.051619
+e429345469.177593
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m202"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o TestFMDB/fmdb/FMDatabasePool.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler705d0dbd4a97b941^a7772dbd4a97b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m0000000000000000^3577"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o TestFMDB/fmdb/FMDatabasePool.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o36"46AE4FA8-9DB8-44C9-BDFB-2BC80E14C9FD-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345469.119143
+e429345469.209522
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m204"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o TestFMDB/fmdb/FMDatabaseQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler59a71ebd4a97b941^f0a435bd4a97b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m0000000000000000^3583"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o TestFMDB/fmdb/FMDatabaseQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o36"4253362E-7991-4841-A46A-5463DD74C95A-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345468.651876
+e429345469.051236
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m196"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o TestFMDB/fmdb/FMResultSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1020a7bc4a97b941^da1e0dbd4a97b941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m0000000000000000^3559"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o TestFMDB/fmdb/FMResultSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o36"4C6359C6-72A1-4B26-A6DE-D8068C293581-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429374982.566358
+e429374985.859663
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDB.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m197"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o TestFMDB/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler27159106be97b941^6a16dc09be97b941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m0000000000000000^3567"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o TestFMDB/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o36"6390F39A-BDAF-4DF7-9F06-EF6B48F900A3-
+bA63EBDD3-19FB-42A6-82A4-B32291B16758
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429375342.648319
+e429375343.868776
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m177"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o TestFMDB/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerad14a66ebf97b941^e86bde6fbf97b941^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m0000000000000000^3507"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o TestFMDB/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o36"6EB1AAC4-C711-4931-97F6-8B9C44C2E746-
+b5EC0AE2E-D931-49EC-A33E-C741960E9198
+
+CCompileXIB /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.xib
+s429345520.696600
+e429345521.680321
+r1
+xCompileXIB
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.xib
+o2014-08-10 14:38:41.013 Interface Builder Cocoa Touch Tool[1231:303] CFPreferences: user home directory at file:///Users/xugang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compiling /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.xib38"CompileXIB TestFMDB/ViewController.xib2b68b2f04a97b941^0b2aaef14a97b941^-230"2014-08-10 14:38:41.013 Interface Builder Cocoa Touch Tool[1231:303] CFPreferences: user home directory at file:///Users/xugang/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@72"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.xib0000000000000000^748"CompileXIB TestFMDB/ViewController.xib    cd /Users/xugang/workspace_Test/TestFMDB    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/ViewController.nib /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.xib36"FBEB6F99-36E9-43D3-AD9D-EAFCDEB55840-
+b51461929-0BA1-43B5-B517-A60FDCBDCFA9
+
+CCopyStringsFile /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/en.lproj/InfoPlist.strings TestFMDB/en.lproj/InfoPlist.strings
+s429345520.696279
+e429345520.698135
+r1
+xCopyStringsFile
+x/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/en.lproj/InfoPlist.strings
+xTestFMDB/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy TestFMDB/en.lproj/InfoPlist.strings119"CopyStringsFile build/Debug-iphonesimulator/TestFMDB.app/en.lproj/InfoPlist.strings TestFMDB/en.lproj/InfoPlist.strings4756b2f04a97b941^6bbab2f04a97b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/en.lproj/InfoPlist.strings0000000000000000^577"CopyStringsFile build/Debug-iphonesimulator/TestFMDB.app/en.lproj/InfoPlist.strings TestFMDB/en.lproj/InfoPlist.strings    cd /Users/xugang/workspace_Test/TestFMDB    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/en.lproj -- TestFMDB/en.lproj/InfoPlist.strings36"7184A6E5-6530-47ED-994D-AA8434CEA687-
+b51461929-0BA1-43B5-B517-A60FDCBDCFA9
+
+CGenerateDSYMFile /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app.dSYM /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB
+s429375344.669949
+e429375344.748094
+r1
+xGenerateDSYMFile
+x/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app.dSYM
+x/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Generate /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app.dSYM112"GenerateDSYMFile build/Debug-iphonesimulator/TestFMDB.app.dSYM build/Debug-iphonesimulator/TestFMDB.app/TestFMDB8d96ab70bf97b941^0284bf70bf97b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app.dSYM/0000000000000000^628"GenerateDSYMFile build/Debug-iphonesimulator/TestFMDB.app.dSYM build/Debug-iphonesimulator/TestFMDB.app/TestFMDB    cd /Users/xugang/workspace_Test/TestFMDB    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB -o /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app.dSYM36"94E241F5-5D66-4272-8471-65F3ACE99F33-
+b5EC0AE2E-D931-49EC-A33E-C741960E9198
+
+CLd /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB normal i386
+s429375343.871824
+e429375344.666912
+r1
+xLd
+x/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB
+xnormal
+xi386
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/TestFMDB.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Link /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB64"Ld build/Debug-iphonesimulator/TestFMDB.app/TestFMDB normal i386d74bdf6fbf97b941^3cbdaa70bf97b941^---0#0#1#--1339"Ld build/Debug-iphonesimulator/TestFMDB.app/TestFMDB normal i386    cd /Users/xugang/workspace_Test/TestFMDB    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -filelist /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/TestFMDB.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -lsqlite3 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/TestFMDB_dependency_info.dat -o /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB36"EE6CDE40-A562-4C94-8604-B22F882F1477-
+b5EC0AE2E-D931-49EC-A33E-C741960E9198
+
+CProcessInfoPlistFile /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/Info.plist /Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Info.plist
+s429345522.257420
+e429345522.263500
+r1
+xProcessInfoPlistFile
+x/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/Info.plist
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Process /Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Info.plist101"ProcessInfoPlistFile build/Debug-iphonesimulator/TestFMDB.app/Info.plist TestFMDB/TestFMDB-Info.plist2a0042f24a97b941^647543f24a97b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Info.plist0000000000000000^845"ProcessInfoPlistFile build/Debug-iphonesimulator/TestFMDB.app/Info.plist TestFMDB/TestFMDB-Info.plist    cd /Users/xugang/workspace_Test/TestFMDB    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Info.plist -genpkginfo /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/assetcatalog_generated_info.plist -o /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/Info.plist36"820013E4-59C3-4F72-B733-3F0E788985D6-
+b51461929-0BA1-43B5-B517-A60FDCBDCFA9
+
+CProcessPCH /Users/xugang/Library/Developer/Xcode/DerivedData/TestFMDB-fcpzxllcmmdmvkgxrmqvshiiyxzx/Index/PrecompiledHeaders/TestFMDB-Prefix-agvphotekjvukgcincwtkvzggsqy_ast/TestFMDB-Prefix.pch.pch TestFMDB/TestFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch TestFMDB/TestFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345467.506071
+e429345468.647959
+r1
+xProcessPCH
+x/var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch
+xTestFMDB/TestFMDB-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile TestFMDB/TestFMDB-Prefix.pch294"ProcessPCH /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch TestFMDB/TestFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercaa981bb4a97b941^3927a6bc4a97b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Prefix.pch0000000000000000^3640"ProcessPCH /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch TestFMDB/TestFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.d -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Prefix.pch -o /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch36"119506B3-FD1C-483E-A64D-C6D32852C6C5-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CTouch /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app
+r0
+

@@ -1,0 +1,542 @@
+TTestFMDB
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch TestFMDB/TestFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000533B9FAC0000000000446820
+t1396416428
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9FAE000000000088D8C0
+t1396416430
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000533B9FB50000000001F1DE10
+t1396416437
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533B6DFC0000000000000ADC
+t1396403708
+s2780
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m
+c0000000053E713380000000000000906
+t1407652664
+s2310
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Prefix.pch
+c0000000053E7123A0000000000000158
+t1407652410
+s344
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m
+c0000000053E7128E00000000000002C6
+t1407652494
+s710
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m
+c0000000053E70E65000000000000A416
+t1407651429
+s42006
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m
+c0000000053E70E6500000000000019D1
+t1407651429
+s6609
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m
+c0000000053E70E650000000000001B9C
+t1407651429
+s7068
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m
+c0000000053E70E65000000000000187C
+t1407651429
+s6268
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m
+c0000000053E70E650000000000002C93
+t1407651429
+s11411
+
+N/Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m
+c0000000053E7123A000000000000014B
+t1407652410
+s331
+
+N/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB
+t2
+s0
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o
+t1407652669
+s64512
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o
+t1407652669
+s123892
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o
+t1407652669
+s25396
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o
+t1407652669
+s43996
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o
+t1407652669
+s36460
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o
+t1407652669
+s49324
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/TestFMDB.LinkFileList
+c0000000053E7133B000000000000041A
+t1407652667
+s1050
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o
+t1407652669
+s40000
+
+N/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o
+t1407652669
+s3536
+
+N/var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch
+t1407652668
+s121744
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m
+r0
+
+CBuild AST from /Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8be16ebb4a97b941^fb7381bb4a97b941^---0#1#1#--18"Check dependencies36"8DF5BB7D-F2A3-4D68-98F8-212D426E24D2-
+
+CCompileAssetCatalog /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app /Users/xugang/workspace_Test/TestFMDB/TestFMDB/Images.xcassets
+r0
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345468.649889
+e429345469.086629
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m191"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o TestFMDB/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5182a6bc4a97b941^89ea15bd4a97b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m0000000000000000^3549"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o TestFMDB/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o36"DAAB56E4-A9B4-4EF1-BA14-CCF9DFB798CF-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345468.649302
+e429345469.171603
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m194"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o TestFMDB/fmdb/FMDatabase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler486da6bc4a97b941^87e12bbd4a97b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m0000000000000000^3553"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o TestFMDB/fmdb/FMDatabase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o36"C7293347-DA26-4BDC-9585-63EF3EF37A5A-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345469.086933
+e429345469.188866
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m212"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o TestFMDB/fmdb/FMDatabaseAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfd6616bd4a97b941^fb5930bd4a97b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m0000000000000000^3607"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o TestFMDB/fmdb/FMDatabaseAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseAdditions.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o36"5A99FDBE-FCBE-481E-A8EF-482A175033A4-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345469.051619
+e429345469.177593
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m202"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o TestFMDB/fmdb/FMDatabasePool.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler705d0dbd4a97b941^a7772dbd4a97b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m0000000000000000^3577"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o TestFMDB/fmdb/FMDatabasePool.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o36"46AE4FA8-9DB8-44C9-BDFB-2BC80E14C9FD-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345469.119143
+e429345469.209522
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m204"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o TestFMDB/fmdb/FMDatabaseQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler59a71ebd4a97b941^f0a435bd4a97b941^---0#0#1#-19%DVTDocumentLocation2@76"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m0000000000000000^3583"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o TestFMDB/fmdb/FMDatabaseQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabaseQueue.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o36"4253362E-7991-4841-A46A-5463DD74C95A-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345468.651876
+e429345469.051236
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabase.h
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMDatabasePool.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m196"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o TestFMDB/fmdb/FMResultSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1020a7bc4a97b941^da1e0dbd4a97b941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m0000000000000000^3559"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o TestFMDB/fmdb/FMResultSet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/fmdb/FMResultSet.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o36"4C6359C6-72A1-4B26-A6DE-D8068C293581-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345468.650628
+e429345469.065870
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m197"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o TestFMDB/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6ff3a6bc4a97b941^abeb10bd4a97b941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m0000000000000000^3567"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o TestFMDB/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o36"9ADFEF9B-C537-439E-ADD6-E2C44836F802-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o /Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345469.066336
+e429345469.118720
+r1
+xCompileC
+xbuild/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o
+x/Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m177"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o TestFMDB/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerde1d11bd4a97b941^da571ebd4a97b941^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m0000000000000000^3507"CompileC build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o TestFMDB/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -include /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch -MMD -MT dependencies -MF /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.dia -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/main.m -o /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o36"F10D5B55-90F9-485B-9D25-2FD8949FC717-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CCompileXIB /Users/xugang/workspace_Test/TestFMDB/TestFMDB/ViewController.xib
+r0
+
+CCopyStringsFile /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/en.lproj/InfoPlist.strings TestFMDB/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app.dSYM /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB
+r0
+
+CLd /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB normal i386
+s429345469.210580
+e429345470.203830
+r0
+xLd
+x/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB
+xnormal
+xi386
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/TestFMDB.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabase.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/AppDelegate.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/ViewController.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMResultSet.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabasePool.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/main.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseAdditions.o
+d/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/FMDatabaseQueue.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+oUndefined symbols for architecture i386:
+o  "_sqlite3_bind_blob", referenced from:
+o      -[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o
+o  "_sqlite3_bind_double", referenced from:
+o      -[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o
+o  "_sqlite3_bind_int", referenced from:
+o      -[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o
+o  "_sqlite3_bind_int64", referenced from:
+o      -[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o
+o  "_sqlite3_bind_null", referenced from:
+o      -[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o
+o  "_sqlite3_bind_parameter_count", referenced from:
+o      -[FMDatabase executeQuery:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o
+o      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o
+o  "_sqlite3_bind_parameter_index", referenced from:
+o      -[FMDatabase executeQuery:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o
+o      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o
+o  "_sqlite3_bind_text", referenced from:
+o      -[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o
+o  "_sqlite3_busy_handler", referenced from:
+o      -[FMDatabase setMaxBusyRetryTimeInterval:] in FMDatabase.o
+o  "_sqlite3_changes", referenced from:
+o      -[FMDatabase changes] in FMDatabase.o
+o  "_sqlite3_close", referenced from:
+o      -[FMDatabase close] in FMDatabase.o
+o  "_sqlite3_column_blob", referenced from:
+o      -[FMResultSet dataForColumnIndex:] in FMResultSet.o
+o      -[FMResultSet dataNoCopyForColumnIndex:] in FMResultSet.o
+o  "_sqlite3_column_bytes", referenced from:
+o      -[FMResultSet dataForColumnIndex:] in FMResultSet.o
+o      -[FMResultSet dataNoCopyForColumnIndex:] in FMResultSet.o
+o  "_sqlite3_column_count", referenced from:
+o      -[FMResultSet columnCount] in FMResultSet.o
+o      -[FMResultSet columnNameToIndexMap] in FMResultSet.o
+o      -[FMResultSet kvcMagic:] in FMResultSet.o
+o      -[FMResultSet resultDictionary] in FMResultSet.o
+o  "_sqlite3_column_double", referenced from:
+o      -[FMResultSet doubleForColumnIndex:] in FMResultSet.o
+o  "_sqlite3_column_int", referenced from:
+o      -[FMResultSet intForColumnIndex:] in FMResultSet.o
+o  "_sqlite3_column_int64", referenced from:
+o      -[FMResultSet longForColumnIndex:] in FMResultSet.o
+o      -[FMResultSet longLongIntForColumnIndex:] in FMResultSet.o
+o  "_sqlite3_column_name", referenced from:
+o      -[FMResultSet columnNameToIndexMap] in FMResultSet.o
+o      -[FMResultSet kvcMagic:] in FMResultSet.o
+o      -[FMResultSet resultDictionary] in FMResultSet.o
+o      -[FMResultSet columnNameForIndex:] in FMResultSet.o
+o  "_sqlite3_column_text", referenced from:
+o      -[FMResultSet kvcMagic:] in FMResultSet.o
+o      -[FMResultSet stringForColumnIndex:] in FMResultSet.o
+o      -[FMResultSet UTF8StringForColumnIndex:] in FMResultSet.o
+o  "_sqlite3_column_type", referenced from:
+o      -[FMResultSet stringForColumnIndex:] in FMResultSet.o
+o      -[FMResultSet dateForColumnIndex:] in FMResultSet.o
+o      -[FMResultSet dataForColumnIndex:] in FMResultSet.o
+o      -[FMResultSet dataNoCopyForColumnIndex:] in FMResultSet.o
+o      -[FMResultSet columnIndexIsNull:] in FMResultSet.o
+o      -[FMResultSet UTF8StringForColumnIndex:] in FMResultSet.o
+o      -[FMResultSet objectForColumnIndex:] in FMResultSet.o
+o      ...
+o  "_sqlite3_create_function", referenced from:
+o      -[FMDatabase makeFunctionNamed:maximumArguments:withBlock:] in FMDatabase.o
+o  "_sqlite3_data_count", referenced from:
+o      -[FMResultSet resultDict] in FMResultSet.o
+o      -[FMResultSet resultDictionary] in FMResultSet.o
+o  "_sqlite3_errcode", referenced from:
+o      -[FMDatabase lastErrorCode] in FMDatabase.o
+o      -[FMDatabase errorWithMessage:] in FMDatabase.o
+o      -[FMResultSet hasAnotherRow] in FMResultSet.o
+o  "_sqlite3_errmsg", referenced from:
+o      -[FMDatabase lastErrorMessage] in FMDatabase.o
+o      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o
+o      -[FMResultSet next] in FMResultSet.o
+o  "_sqlite3_exec", referenced from:
+o      -[FMDatabase executeStatements:withResultBlock:] in FMDatabase.o
+o  "_sqlite3_finalize", referenced from:
+o      -[FMDatabase close] in FMDatabase.o
+o      -[FMDatabase executeQuery:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o
+o      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o
+o      -[FMStatement close] in FMDatabase.o
+o      -[FMDatabase(FMDatabaseAdditions) validateSQL:error:] in FMDatabaseAdditions.o
+o  "_sqlite3_free", referenced from:
+o      -[FMDatabase executeStatements:withResultBlock:] in FMDatabase.o
+o  "_sqlite3_last_insert_rowid", referenced from:
+o      -[FMDatabase lastInsertRowId] in FMDatabase.o
+o  "_sqlite3_libversion", referenced from:
+o      +[FMDatabase sqliteLibVersion] in FMDatabase.o
+o  "_sqlite3_next_stmt", referenced from:
+o      -[FMDatabase close] in FMDatabase.o
+o  "_sqlite3_open", referenced from:
+o      -[FMDatabase open] in FMDatabase.o
+o  "_sqlite3_open_v2", referenced from:
+o      -[FMDatabase openWithFlags:] in FMDatabase.o
+o  "_sqlite3_prepare_v2", referenced from:
+o      -[FMDatabase executeQuery:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o
+o      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o
+o      -[FMDatabase(FMDatabaseAdditions) validateSQL:error:] in FMDatabaseAdditions.o
+o  "_sqlite3_reset", referenced from:
+o      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o
+o      -[FMStatement reset] in FMDatabase.o
+o  "_sqlite3_sleep", referenced from:
+o      _FMDBDatabaseBusyHandler in FMDatabase.o
+o  "_sqlite3_step", referenced from:
+o      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o
+o      -[FMResultSet next] in FMResultSet.o
+o  "_sqlite3_threadsafe", referenced from:
+o      -[FMDatabase initWithPath:] in FMDatabase.o
+o      +[FMDatabase isSQLiteThreadSafe] in FMDatabase.o
+o  "_sqlite3_user_data", referenced from:
+o      _FMDBBlockSQLiteCallBackFunction in FMDatabase.o
+old: symbol(s) not found for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Link /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB64"Ld build/Debug-iphonesimulator/TestFMDB.app/TestFMDB normal i386cff935bd4a97b941^e42c34be4a97b941^-6273"Undefined symbols for architecture i386:  "_sqlite3_bind_blob", referenced from:      -[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o  "_sqlite3_bind_double", referenced from:      -[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o  "_sqlite3_bind_int", referenced from:      -[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o  "_sqlite3_bind_int64", referenced from:      -[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o  "_sqlite3_bind_null", referenced from:      -[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o  "_sqlite3_bind_parameter_count", referenced from:      -[FMDatabase executeQuery:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o  "_sqlite3_bind_parameter_index", referenced from:      -[FMDatabase executeQuery:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o  "_sqlite3_bind_text", referenced from:      -[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o  "_sqlite3_busy_handler", referenced from:      -[FMDatabase setMaxBusyRetryTimeInterval:] in FMDatabase.o  "_sqlite3_changes", referenced from:      -[FMDatabase changes] in FMDatabase.o  "_sqlite3_close", referenced from:      -[FMDatabase close] in FMDatabase.o  "_sqlite3_column_blob", referenced from:      -[FMResultSet dataForColumnIndex:] in FMResultSet.o      -[FMResultSet dataNoCopyForColumnIndex:] in FMResultSet.o  "_sqlite3_column_bytes", referenced from:      -[FMResultSet dataForColumnIndex:] in FMResultSet.o      -[FMResultSet dataNoCopyForColumnIndex:] in FMResultSet.o  "_sqlite3_column_count", referenced from:      -[FMResultSet columnCount] in FMResultSet.o      -[FMResultSet columnNameToIndexMap] in FMResultSet.o      -[FMResultSet kvcMagic:] in FMResultSet.o      -[FMResultSet resultDictionary] in FMResultSet.o  "_sqlite3_column_double", referenced from:      -[FMResultSet doubleForColumnIndex:] in FMResultSet.o  "_sqlite3_column_int", referenced from:      -[FMResultSet intForColumnIndex:] in FMResultSet.o  "_sqlite3_column_int64", referenced from:      -[FMResultSet longForColumnIndex:] in FMResultSet.o      -[FMResultSet longLongIntForColumnIndex:] in FMResultSet.o  "_sqlite3_column_name", referenced from:      -[FMResultSet columnNameToIndexMap] in FMResultSet.o      -[FMResultSet kvcMagic:] in FMResultSet.o      -[FMResultSet resultDictionary] in FMResultSet.o      -[FMResultSet columnNameForIndex:] in FMResultSet.o  "_sqlite3_column_text", referenced from:      -[FMResultSet kvcMagic:] in FMResultSet.o      -[FMResultSet stringForColumnIndex:] in FMResultSet.o      -[FMResultSet UTF8StringForColumnIndex:] in FMResultSet.o  "_sqlite3_column_type", referenced from:      -[FMResultSet stringForColumnIndex:] in FMResultSet.o      -[FMResultSet dateForColumnIndex:] in FMResultSet.o      -[FMResultSet dataForColumnIndex:] in FMResultSet.o      -[FMResultSet dataNoCopyForColumnIndex:] in FMResultSet.o      -[FMResultSet columnIndexIsNull:] in FMResultSet.o      -[FMResultSet UTF8StringForColumnIndex:] in FMResultSet.o      -[FMResultSet objectForColumnIndex:] in FMResultSet.o      ...  "_sqlite3_create_function", referenced from:      -[FMDatabase makeFunctionNamed:maximumArguments:withBlock:] in FMDatabase.o  "_sqlite3_data_count", referenced from:      -[FMResultSet resultDict] in FMResultSet.o      -[FMResultSet resultDictionary] in FMResultSet.o  "_sqlite3_errcode", referenced from:      -[FMDatabase lastErrorCode] in FMDatabase.o      -[FMDatabase errorWithMessage:] in FMDatabase.o      -[FMResultSet hasAnotherRow] in FMResultSet.o  "_sqlite3_errmsg", referenced from:      -[FMDatabase lastErrorMessage] in FMDatabase.o      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o      -[FMResultSet next] in FMResultSet.o  "_sqlite3_exec", referenced from:      -[FMDatabase executeStatements:withResultBlock:] in FMDatabase.o  "_sqlite3_finalize", referenced from:      -[FMDatabase close] in FMDatabase.o      -[FMDatabase executeQuery:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o      -[FMStatement close] in FMDatabase.o      -[FMDatabase(FMDatabaseAdditions) validateSQL:error:] in FMDatabaseAdditions.o  "_sqlite3_free", referenced from:      -[FMDatabase executeStatements:withResultBlock:] in FMDatabase.o  "_sqlite3_last_insert_rowid", referenced from:      -[FMDatabase lastInsertRowId] in FMDatabase.o  "_sqlite3_libversion", referenced from:      +[FMDatabase sqliteLibVersion] in FMDatabase.o  "_sqlite3_next_stmt", referenced from:      -[FMDatabase close] in FMDatabase.o  "_sqlite3_open", referenced from:      -[FMDatabase open] in FMDatabase.o  "_sqlite3_open_v2", referenced from:      -[FMDatabase openWithFlags:] in FMDatabase.o  "_sqlite3_prepare_v2", referenced from:      -[FMDatabase executeQuery:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o      -[FMDatabase(FMDatabaseAdditions) validateSQL:error:] in FMDatabaseAdditions.o  "_sqlite3_reset", referenced from:      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o      -[FMStatement reset] in FMDatabase.o  "_sqlite3_sleep", referenced from:      _FMDBDatabaseBusyHandler in FMDatabase.o  "_sqlite3_step", referenced from:      -[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o      -[FMResultSet next] in FMResultSet.o  "_sqlite3_threadsafe", referenced from:      -[FMDatabase initWithPath:] in FMDatabase.o      +[FMDatabase isSQLiteThreadSafe] in FMDatabase.o  "_sqlite3_user_data", referenced from:      _FMDBBlockSQLiteCallBackFunction in FMDatabase.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)112(21%IDEActivityLogMessage2@38""_sqlite3_bind_blob", referenced from:-429345470#41#41#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@62"-[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o-429345470#82#69#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@40""_sqlite3_bind_double", referenced from:-429345470#151#43#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@62"-[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o-429345470#194#69#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@37""_sqlite3_bind_int", referenced from:-429345470#263#40#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@62"-[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o-429345470#303#69#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@39""_sqlite3_bind_int64", referenced from:-429345470#372#42#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@62"-[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o-429345470#414#69#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@38""_sqlite3_bind_null", referenced from:-429345470#483#41#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@62"-[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o-429345470#524#69#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@49""_sqlite3_bind_parameter_count", referenced from:-429345470#593#52#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@86"-[FMDatabase executeQuery:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o-429345470#645#93#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@93"-[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o-429345470#738#100#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@49""_sqlite3_bind_parameter_index", referenced from:-429345470#838#52#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@86"-[FMDatabase executeQuery:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o-429345470#890#93#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@93"-[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o-429345470#983#100#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@38""_sqlite3_bind_text", referenced from:-429345470#1083#41#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@62"-[FMDatabase bindObject:toColumn:inStatement:] in FMDatabase.o-429345470#1124#69#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41""_sqlite3_busy_handler", referenced from:-429345470#1193#44#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@58"-[FMDatabase setMaxBusyRetryTimeInterval:] in FMDatabase.o-429345470#1237#65#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@36""_sqlite3_changes", referenced from:-429345470#1302#39#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@37"-[FMDatabase changes] in FMDatabase.o-429345470#1341#44#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@34""_sqlite3_close", referenced from:-429345470#1385#37#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@35"-[FMDatabase close] in FMDatabase.o-429345470#1422#42#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@40""_sqlite3_column_blob", referenced from:-429345470#1464#43#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@51"-[FMResultSet dataForColumnIndex:] in FMResultSet.o-429345470#1507#58#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@57"-[FMResultSet dataNoCopyForColumnIndex:] in FMResultSet.o-429345470#1565#64#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41""_sqlite3_column_bytes", referenced from:-429345470#1629#44#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@51"-[FMResultSet dataForColumnIndex:] in FMResultSet.o-429345470#1673#58#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@57"-[FMResultSet dataNoCopyForColumnIndex:] in FMResultSet.o-429345470#1731#64#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41""_sqlite3_column_count", referenced from:-429345470#1795#44#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@43"-[FMResultSet columnCount] in FMResultSet.o-429345470#1839#50#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@52"-[FMResultSet columnNameToIndexMap] in FMResultSet.o-429345470#1889#59#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"-[FMResultSet kvcMagic:] in FMResultSet.o-429345470#1948#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@48"-[FMResultSet resultDictionary] in FMResultSet.o-429345470#1996#55#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@42""_sqlite3_column_double", referenced from:-429345470#2051#45#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@53"-[FMResultSet doubleForColumnIndex:] in FMResultSet.o-429345470#2096#60#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@39""_sqlite3_column_int", referenced from:-429345470#2156#42#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@50"-[FMResultSet intForColumnIndex:] in FMResultSet.o-429345470#2198#57#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41""_sqlite3_column_int64", referenced from:-429345470#2255#44#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@51"-[FMResultSet longForColumnIndex:] in FMResultSet.o-429345470#2299#58#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@58"-[FMResultSet longLongIntForColumnIndex:] in FMResultSet.o-429345470#2357#65#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@40""_sqlite3_column_name", referenced from:-429345470#2422#43#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@52"-[FMResultSet columnNameToIndexMap] in FMResultSet.o-429345470#2465#59#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"-[FMResultSet kvcMagic:] in FMResultSet.o-429345470#2524#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@48"-[FMResultSet resultDictionary] in FMResultSet.o-429345470#2572#55#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@51"-[FMResultSet columnNameForIndex:] in FMResultSet.o-429345470#2627#58#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@40""_sqlite3_column_text", referenced from:-429345470#2685#43#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@41"-[FMResultSet kvcMagic:] in FMResultSet.o-429345470#2728#48#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@53"-[FMResultSet stringForColumnIndex:] in FMResultSet.o-429345470#2776#60#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@57"-[FMResultSet UTF8StringForColumnIndex:] in FMResultSet.o-429345470#2836#64#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@40""_sqlite3_column_type", referenced from:-429345470#2900#43#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@53"-[FMResultSet stringForColumnIndex:] in FMResultSet.o-429345470#2943#60#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@51"-[FMResultSet dateForColumnIndex:] in FMResultSet.o-429345470#3003#58#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@51"-[FMResultSet dataForColumnIndex:] in FMResultSet.o-429345470#3061#58#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@57"-[FMResultSet dataNoCopyForColumnIndex:] in FMResultSet.o-429345470#3119#64#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@50"-[FMResultSet columnIndexIsNull:] in FMResultSet.o-429345470#3183#57#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@57"-[FMResultSet UTF8StringForColumnIndex:] in FMResultSet.o-429345470#3240#64#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@53"-[FMResultSet objectForColumnIndex:] in FMResultSet.o-429345470#3304#60#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@3"...-429345470#3364#10#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@44""_sqlite3_create_function", referenced from:-429345470#3374#47#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@75"-[FMDatabase makeFunctionNamed:maximumArguments:withBlock:] in FMDatabase.o-429345470#3421#82#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@39""_sqlite3_data_count", referenced from:-429345470#3503#42#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@42"-[FMResultSet resultDict] in FMResultSet.o-429345470#3545#49#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@48"-[FMResultSet resultDictionary] in FMResultSet.o-429345470#3594#55#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@36""_sqlite3_errcode", referenced from:-429345470#3649#39#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@43"-[FMDatabase lastErrorCode] in FMDatabase.o-429345470#3688#50#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@47"-[FMDatabase errorWithMessage:] in FMDatabase.o-429345470#3738#54#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@45"-[FMResultSet hasAnotherRow] in FMResultSet.o-429345470#3792#52#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@35""_sqlite3_errmsg", referenced from:-429345470#3844#38#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@46"-[FMDatabase lastErrorMessage] in FMDatabase.o-429345470#3882#53#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@93"-[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o-429345470#3935#100#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@36"-[FMResultSet next] in FMResultSet.o-429345470#4035#43#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@33""_sqlite3_exec", referenced from:-429345470#4078#36#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@64"-[FMDatabase executeStatements:withResultBlock:] in FMDatabase.o-429345470#4114#71#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@37""_sqlite3_finalize", referenced from:-429345470#4185#40#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@35"-[FMDatabase close] in FMDatabase.o-429345470#4225#42#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@86"-[FMDatabase executeQuery:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o-429345470#4267#93#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@93"-[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o-429345470#4360#100#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@36"-[FMStatement close] in FMDatabase.o-429345470#4460#43#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@78"-[FMDatabase(FMDatabaseAdditions) validateSQL:error:] in FMDatabaseAdditions.o-429345470#4503#85#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@33""_sqlite3_free", referenced from:-429345470#4588#36#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@64"-[FMDatabase executeStatements:withResultBlock:] in FMDatabase.o-429345470#4624#71#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@46""_sqlite3_last_insert_rowid", referenced from:-429345470#4695#49#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@45"-[FMDatabase lastInsertRowId] in FMDatabase.o-429345470#4744#52#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@39""_sqlite3_libversion", referenced from:-429345470#4796#42#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@46"+[FMDatabase sqliteLibVersion] in FMDatabase.o-429345470#4838#53#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@38""_sqlite3_next_stmt", referenced from:-429345470#4891#41#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@35"-[FMDatabase close] in FMDatabase.o-429345470#4932#42#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@33""_sqlite3_open", referenced from:-429345470#4974#36#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@34"-[FMDatabase open] in FMDatabase.o-429345470#5010#41#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@36""_sqlite3_open_v2", referenced from:-429345470#5051#39#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@44"-[FMDatabase openWithFlags:] in FMDatabase.o-429345470#5090#51#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@39""_sqlite3_prepare_v2", referenced from:-429345470#5141#42#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@86"-[FMDatabase executeQuery:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o-429345470#5183#93#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@93"-[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o-429345470#5276#100#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@78"-[FMDatabase(FMDatabaseAdditions) validateSQL:error:] in FMDatabaseAdditions.o-429345470#5376#85#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@34""_sqlite3_reset", referenced from:-429345470#5461#37#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@93"-[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o-429345470#5498#100#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@36"-[FMStatement reset] in FMDatabase.o-429345470#5598#43#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@34""_sqlite3_sleep", referenced from:-429345470#5641#37#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@40"_FMDBDatabaseBusyHandler in FMDatabase.o-429345470#5678#47#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@33""_sqlite3_step", referenced from:-429345470#5725#36#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@93"-[FMDatabase executeUpdate:error:withArgumentsInArray:orDictionary:orVAList:] in FMDatabase.o-429345470#5761#100#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@36"-[FMResultSet next] in FMResultSet.o-429345470#5861#43#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@39""_sqlite3_threadsafe", referenced from:-429345470#5904#42#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@43"-[FMDatabase initWithPath:] in FMDatabase.o-429345470#5946#50#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@48"+[FMDatabase isSQLiteThreadSafe] in FMDatabase.o-429345470#5996#55#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@38""_sqlite3_user_data", referenced from:-429345470#6051#41#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@48"_FMDBBlockSQLiteCallBackFunction in FMDatabase.o-429345470#6092#55#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"Symbol(s) not found for architecture i386-429345470#6147#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-429345470#6193#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1329"Ld build/Debug-iphonesimulator/TestFMDB.app/TestFMDB normal i386    cd /Users/xugang/workspace_Test/TestFMDB    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator -filelist /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/TestFMDB.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/Objects-normal/i386/TestFMDB_dependency_info.dat -o /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/TestFMDB36"5A17459C-0851-4F40-A85A-67DEB967501C-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CProcessInfoPlistFile /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app/Info.plist /Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Info.plist
+r0
+
+CProcessPCH /Users/xugang/Library/Developer/Xcode/DerivedData/TestFMDB-fcpzxllcmmdmvkgxrmqvshiiyxzx/Index/PrecompiledHeaders/TestFMDB-Prefix-agvphotekjvukgcincwtkvzggsqy_ast/TestFMDB-Prefix.pch.pch TestFMDB/TestFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch TestFMDB/TestFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s429345467.506071
+e429345468.647959
+r1
+xProcessPCH
+x/var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch
+xTestFMDB/TestFMDB-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile TestFMDB/TestFMDB-Prefix.pch294"ProcessPCH /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch TestFMDB/TestFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercaa981bb4a97b941^3927a6bc4a97b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Prefix.pch0000000000000000^3640"ProcessPCH /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch TestFMDB/TestFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xugang/workspace_Test/TestFMDB    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/xugang/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-generated-files.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-own-target-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-all-target-headers.hmap -iquote /Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/TestFMDB-project-headers.hmap -I/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources/i386 -I/Users/xugang/workspace_Test/TestFMDB/build/TestFMDB.build/Debug-iphonesimulator/TestFMDB.build/DerivedSources -F/Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.d -c /Users/xugang/workspace_Test/TestFMDB/TestFMDB/TestFMDB-Prefix.pch -o /var/folders/0t/lrq99k1d7hn_h_rxd4j483440000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TestFMDB-Prefix-grxeekpwewcmhifopzgdmlnxqhbe/TestFMDB-Prefix.pch.pch36"119506B3-FD1C-483E-A64D-C6D32852C6C5-
+bA34ADAFF-7560-423C-BDF2-5DBEE2D9AB54
+
+CTouch /Users/xugang/workspace_Test/TestFMDB/build/Debug-iphonesimulator/TestFMDB.app
+r0
+
