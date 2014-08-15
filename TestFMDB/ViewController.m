@@ -87,17 +87,6 @@ sqlite3 *database;
     }
     
     
-  
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     NSString *sqlString=@"SELECT Name, Age FROM PersonList";
     
 
